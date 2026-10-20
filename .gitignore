@@ -1,0 +1,29 @@
+# Служебные файлы Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Результаты сборки
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]rm64/
+[Ll]og/
+[Ll]ogs/
+
+# NuGet
+*.nupkg
+**/packages/*
+!**/packages/build/
+
+# Прочее
+*.cache
+*.log
+*.tmp
+TestResults/
+.idea/
