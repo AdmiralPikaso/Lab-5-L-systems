@@ -9,6 +9,7 @@ namespace Lab5
             
             InitTask1();
             InitTask2();
+            InitTask3();
         }
     }
 }
