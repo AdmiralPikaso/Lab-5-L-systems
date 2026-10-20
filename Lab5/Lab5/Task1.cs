@@ -252,7 +252,7 @@ namespace Lab5
             t1NumJitter.Value = 0;
             t1NumJitter.Width = 60;
 
-            // Режим дерева (1.б): толщина и цвет зависят от глубины ветки
+            // Режим дерева (1.б): толщина и цвет зависят от расстояния до основания
             t1ChkTree.Text = "Дерево (1.б)";
             t1ChkTree.AutoSize = true;
             t1ChkTree.Margin = new Padding(15, 6, 3, 3);
